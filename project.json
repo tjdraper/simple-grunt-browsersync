@@ -1,0 +1,8 @@
+{
+	"proxy": "https://my-site.dev",
+	"watch": [
+		"templates/default_site/**",
+		"public/assets/style.css",
+		"public/assets/script.js"
+	]
+}
